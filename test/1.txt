@@ -1,2 +1,5 @@
 name = zs
 zs_age = 18
+
+manager_name = ma
+manager_age = 35
