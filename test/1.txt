@@ -1,0 +1,2 @@
+name = zs
+zs_age = 18
