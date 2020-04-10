@@ -2,3 +2,7 @@ name = zs
 zs_age = 18
 
 zs_num = 30
+
+manager_name = ma
+manager_age = 35
+
