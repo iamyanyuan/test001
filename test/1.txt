@@ -1,2 +1,4 @@
 name = zs
 zs_age = 18
+
+zs_num = 30
