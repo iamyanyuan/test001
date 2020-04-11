@@ -3,3 +3,5 @@ zs_age = 18
 
 manager_name = ma
 manager_age = 35
+
+mun2 = 8899 #manager
