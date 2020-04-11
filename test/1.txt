@@ -5,3 +5,4 @@ manager_name = ma
 manager_age = 35
 
 mun2 = 1688 #manager
+mun3 = 500 #manager
